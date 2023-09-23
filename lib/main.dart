@@ -125,8 +125,10 @@ class AddToCartScreen extends State<AddToCartState>{
   initState(){
     super.initState();
     for(int eachCartItems in widget.addToCart){
-      totalProductsCount += eachCartItems;
-      setState(() {});
+      if(eachCartItems != 0){
+        totalProductsCount += 1;
+        setState(() {});
+      }
     }
   }
 
