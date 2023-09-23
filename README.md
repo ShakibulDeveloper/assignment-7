@@ -1,5 +1,7 @@
 # assignment_7
-
+<img src="https://imgur.com/Qik6czF.png">
+<img src="https://imgur.com/8APxQAq.png">
+<img src="https://imgur.com/w7owqKN.png">
 A new Flutter project.
 
 ## Getting Started
